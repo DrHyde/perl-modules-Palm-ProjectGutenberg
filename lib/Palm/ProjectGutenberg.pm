@@ -9,7 +9,7 @@ require Exporter;
 
 use vars qw($VERSION @EXPORT_OK @ISA);
 
-$VERSION = '1.0';
+$VERSION = '1.01';
 @ISA = qw(Exporter);
 @EXPORT_OK = qw(pg2pdb);
 
