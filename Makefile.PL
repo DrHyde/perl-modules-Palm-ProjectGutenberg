@@ -2,6 +2,12 @@ use ExtUtils::MakeMaker;
 
 WriteMakefile(
     NAME         => 'Palm::ProjectGutenberg',
+    META_MERGE => {
+        license => 'other',
+        resource => {
+	    repository => 'https://github.com/DrHyde/perl-modules-Palm-ProjectGutenberg'
+        }
+    },
     VERSION_FROM => 'lib/Palm/ProjectGutenberg.pm', # finds $VERSION
     PREREQ_PM    => {
         'Palm::Doc'  => 1.19,
