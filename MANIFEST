@@ -10,3 +10,4 @@ t/all.t
 t/ARTISTIC.pdb
 t/pod-coverage.t
 t/pod.t
+MANIFEST.SKIP
