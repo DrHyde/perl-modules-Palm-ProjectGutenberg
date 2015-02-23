@@ -4,8 +4,9 @@ WriteMakefile(
     NAME         => 'Palm::ProjectGutenberg',
     META_MERGE => {
         license => 'other',
-        resource => {
-	    repository => 'https://github.com/DrHyde/perl-modules-Palm-ProjectGutenberg'
+        resources => {
+	    repository => 'https://github.com/DrHyde/perl-modules-Palm-ProjectGutenberg',
+	    bugtracker => 'https://github.com/DrHyde/perl-modules-Palm-ProjectGutenberg/issues'
         }
     },
     VERSION_FROM => 'lib/Palm/ProjectGutenberg.pm', # finds $VERSION
