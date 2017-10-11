@@ -53,8 +53,8 @@ really only intended for use by the pg2pdb script.  If you want that
 extra functionality, please provide a patch with tests.
 
 I welcome feedback about my code, including constructive criticism.
-Bug reports should be made using L<http://rt.cpan.org/> or by email,
-and should include the smallest possible chunk of code, along with
+Bug reports should be made on Github or by email.
+They should include the smallest possible chunk of code, along with
 any necessary text data, which demonstrates the bug.  Ideally, this
 will be in the form of files which I can drop in to the module's
 test suite.

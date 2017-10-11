@@ -74,8 +74,8 @@ This is subject to the limitations of Palm::Doc - eg that all documents
 produced are compressed.
 
 I welcome feedback about my code, including constructive criticism.
-Bug reports should be made using L<http://rt.cpan.org/> or by email,
-and should include the a brief description of the bug and a small
+Bug reports should be made on Github or by email.
+They should include the a brief description of the bug and a small
 text file that provokes it and which I can freely distribute with the
 code as part of its automated test suite in the future.
 
