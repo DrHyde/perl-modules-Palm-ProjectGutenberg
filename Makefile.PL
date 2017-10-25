@@ -3,7 +3,7 @@ use ExtUtils::MakeMaker;
 WriteMakefile(
     NAME         => 'Palm::ProjectGutenberg',
     META_MERGE => {
-        license => 'other',
+        license => 'open_source',
         resources => {
 	    repository => 'https://github.com/DrHyde/perl-modules-Palm-ProjectGutenberg',
 	    bugtracker => 'https://github.com/DrHyde/perl-modules-Palm-ProjectGutenberg/issues'
